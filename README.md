@@ -17,7 +17,7 @@
   - [x] buat class design vibe xD
   - [x] styling per-section
 
-- [x] JAWASCRIPT
+- [ ] JAWASCRIPT
   - [x] CRUD Task
   - [x] Fitur Filter
   - [ ] Fitur Toggle Theme
