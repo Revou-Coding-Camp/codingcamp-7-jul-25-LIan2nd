@@ -24,3 +24,7 @@
 
 #### Last but not least
 - [x] Make it responsive xD 
+
+### Features
+- CRUD what to do
+- Filter task (all, pending, completed)
